@@ -1,0 +1,12 @@
+com\example\EjercicioEstudianteProgramacion\repository\ICursoRepository.class
+com\example\EjercicioEstudianteProgramacion\model\Curso.class
+com\example\EjercicioEstudianteProgramacion\controller\TemaController.class
+com\example\EjercicioEstudianteProgramacion\service\TemaService.class
+com\example\EjercicioEstudianteProgramacion\repository\ITemaRepository.class
+com\example\EjercicioEstudianteProgramacion\controller\CursoController.class
+com\example\EjercicioEstudianteProgramacion\service\ITemaService.class
+com\example\EjercicioEstudianteProgramacion\service\ICursoService.class
+com\example\EjercicioEstudianteProgramacion\model\Tema.class
+com\example\EjercicioEstudianteProgramacion\service\CursoService.class
+com\example\EjercicioEstudianteProgramacion\EjercicioEstudianteProgramacionApplication.class
+com\example\EjercicioEstudianteProgramacion\dto\CursoTemaDTO.class
